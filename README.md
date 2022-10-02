@@ -1,3 +1,4 @@
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=MintSoda&fontAlign=40&fontSize=30&desc=Python%20Github&descAlign=57&descAlignY=50&theme=tokyonight)
 <img src="https://github-readme-stats.vercel.app/api?username=mintsoda2021&show_icons=true&theme=tokyonight"/>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mintsoda"/>
 
